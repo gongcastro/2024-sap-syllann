@@ -1,0 +1,163 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Santolin",
+                    "given": "Chiara"
+                },
+                {
+                    "family": "Zacharaki",
+                    "given": "Konstantina"
+                },
+                {
+                    "family": "Toro",
+                    "given": "Juan Manuel"
+                },
+                {
+                    "family": "Sebastian-Galles",
+                    "given": "Nuria"
+                }
+            ],
+            "container-title": "Cognition",
+            "id": "santolin2024abstract",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "105663",
+            "publisher": "Elsevier",
+            "title": "Abstract processing of syllabic structures in early infancy",
+            "type": "article-journal",
+            "volume": "244"
+        },
+        {
+            "author": [
+                {
+                    "family": "Magnuson",
+                    "given": "James S"
+                },
+                {
+                    "family": "You",
+                    "given": "Heejo"
+                },
+                {
+                    "family": "Luthra",
+                    "given": "Sahil"
+                },
+                {
+                    "family": "Li",
+                    "given": "Monica"
+                },
+                {
+                    "family": "Nam",
+                    "given": "Hosung"
+                },
+                {
+                    "family": "Escabi",
+                    "given": "Monty"
+                },
+                {
+                    "family": "Brown",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Allopenna",
+                    "given": "Paul D"
+                },
+                {
+                    "family": "Theodore",
+                    "given": "Rachel M"
+                },
+                {
+                    "family": "Monto",
+                    "given": "Nicholas"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Cognitive science",
+            "id": "magnuson2020earshot",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "e12823",
+            "publisher": "Wiley Online Library",
+            "title": "EARSHOT: A minimal neural network model of incremental human speech recognition",
+            "title-short": "EARSHOT",
+            "type": "article-journal",
+            "volume": "44"
+        },
+        {
+            "author": [
+                {
+                    "family": "Deloche",
+                    "given": "François"
+                },
+                {
+                    "family": "Bonnasse-Gahot",
+                    "given": "Laurent"
+                },
+                {
+                    "family": "Gervain",
+                    "given": "Judit"
+                }
+            ],
+            "container-title": "arXiv preprint arXiv:2401.14416",
+            "id": "deloche2024acoustic",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Acoustic characterization of speech rhythm: Going beyond metrics with recurrent neural networks",
+            "title-short": "Acoustic characterization of speech rhythm",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bijeljac-Babic",
+                    "given": "Ranka"
+                },
+                {
+                    "family": "Bertoncini",
+                    "given": "Josiane"
+                },
+                {
+                    "family": "Mehler",
+                    "given": "Jacques"
+                }
+            ],
+            "container-title": "Developmental psychology",
+            "id": "bijeljac19934",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            },
+            "page": "711",
+            "publisher": "American Psychological Association",
+            "title": "How do 4-day-old infants categorize multisyllabic utterances?",
+            "type": "article-journal",
+            "volume": "29"
+        }
+    ],
+    "project_biblios": [
+        "assets/references.bib"
+    ]
+}
